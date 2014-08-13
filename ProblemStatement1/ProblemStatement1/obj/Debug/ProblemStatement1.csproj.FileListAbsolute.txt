@@ -1,0 +1,6 @@
+c:\users\vsarvankar\documents\visual studio 2012\Projects\ProblemStatement1\ProblemStatement1\bin\Debug\ProblemStatement1.exe.config
+c:\users\vsarvankar\documents\visual studio 2012\Projects\ProblemStatement1\ProblemStatement1\bin\Debug\ProblemStatement1.exe
+c:\users\vsarvankar\documents\visual studio 2012\Projects\ProblemStatement1\ProblemStatement1\bin\Debug\ProblemStatement1.pdb
+c:\users\vsarvankar\documents\visual studio 2012\Projects\ProblemStatement1\ProblemStatement1\obj\Debug\ProblemStatement1.csprojResolveAssemblyReference.cache
+c:\users\vsarvankar\documents\visual studio 2012\Projects\ProblemStatement1\ProblemStatement1\obj\Debug\ProblemStatement1.exe
+c:\users\vsarvankar\documents\visual studio 2012\Projects\ProblemStatement1\ProblemStatement1\obj\Debug\ProblemStatement1.pdb
